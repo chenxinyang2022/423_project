@@ -2,4 +2,4 @@
 
 # vision
 
-This project aims
+This project aims to 
