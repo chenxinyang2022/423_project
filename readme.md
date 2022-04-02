@@ -1,4 +1,4 @@
 # project charter
 
-# vision
+# vis
 This project aims
