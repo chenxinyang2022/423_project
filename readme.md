@@ -2,4 +2,4 @@
 
 # vision
 
-This project aims to eee
+This project aims create an app that can predict employees' attrition for a company.
