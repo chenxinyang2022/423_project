@@ -11,7 +11,7 @@ This project creates an app that can predict employees' attrition for a company.
 
 2. Number of inputs per user (employer): This metric measures the engagement of user, higher value would indicate better engagement.
 
-Number of days of login per month: This metric measures the user retention, higher value would indicate better retention.
+   Number of days of login per month: This metric measures the user retention, higher value would indicate better retention.
 
 
 
